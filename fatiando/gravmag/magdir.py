@@ -43,6 +43,11 @@ class DipoleMagDir(Misfit):
 
     Blakely, R. (1996), Potential theory in gravity and magnetic applications:
     CUP
+    
+    Oliveira Jr., V. C., Sales, D. P., Barbosa, V. C. F., and Uieda, L.: 
+    Estimation of the total magnetization direction of approximately spherical
+    bodies, Nonlin. Processes Geophys., 22, 215-232, 
+    doi:10.5194/npg-22-215-2015, 2015.
 
     .. note:: Assumes x = North, y = East, z = Down.
 
